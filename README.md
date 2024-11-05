@@ -1,7 +1,4 @@
-```markdown
 # 🚀 PC Performance Logger
-
-![Banner](https://via.placeholder.com/800x200?text=PC+Performance+Logger)
 
 **PC Performance Logger** is my **first-ever project**! 🎉 As someone who isn't a professional programmer, I was amazed by how AI tools like ChatGPT helped me create this PowerShell script. It monitors and logs your PC's CPU and RAM usage per process and software, generating a beautiful HTML report for easy analysis. 📊✨
 
@@ -21,26 +18,8 @@
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/yourusername/pc-performance-logger.git
-   ```
-
-2. **Navigate to the Project Directory**
-
-   ```bash
-   cd pc-performance-logger
-   ```
-
-3. **Run the PowerShell Script**
-
    ```powershell
-   .\PCPerformanceLogger.ps1
-   ```
-
-   > **Note:** You may need to adjust your PowerShell execution policy to allow script execution. Open PowerShell as an administrator and run:
-
-   ```powershell
-   Set-ExecutionPolicy RemoteSigned
+   Set-ExecutionPolicy 
    ```
 
 ---
@@ -103,33 +82,12 @@ This project is licensed under the [MIT License](LICENSE). 📜
 ## 🙏 Acknowledgements
 
 - **🤖 [ChatGPT](https://openai.com/chatgpt):** For providing invaluable assistance in developing the script.
-- **💻 PowerShell Community:** For their extensive resources and support.
-- **🌐 Open-Source Contributors:** For inspiring and enabling projects like this one.
 
 ---
 
-## 📬 Contact
-
-Have questions or suggestions? Feel free to reach out!
-
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-
----
 
 *Thank you for checking out PC Performance Logger! I hope it helps you monitor and optimize your PC's performance effectively. This project is a testament to what anyone can achieve with curiosity and the right tools.* 🎉💪
 ```
 
 ---
 
-### 📌 **Notes:**
-
-1. **Repository URL:** Replace `https://github.com/yourusername/pc-performance-logger.git` with your actual GitHub repository URL.
-2. **Banner Image:** Update the banner image URL with your own image if available.
-3. **Screenshot Path:** Ensure the image path in the "Example Report" section points to your actual report's screenshot, and add the image to the repository under the specified folder (e.g., `assets/sample-report.png`).
-4. **Contact Information:** Update the contact section with your actual email and GitHub username.
-5. **License File:** Include a `LICENSE` file in your repository if you reference it in the README.
-
----
-
-This README is now **shorter**, **cleaner**, and **more colorful** with the use of emojis and creative section headers. It emphasizes that this is your first project and highlights your experience with AI assistance, making it both engaging and personable.
