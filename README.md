@@ -28,14 +28,6 @@
 
 Once the script is running, it will monitor your PC's CPU and RAM usage, logging the data at specified intervals. After collecting enough data, it generates an HTML report located in the `Reports` folder. 🗂️
 
-### 🔧 Customize Logging Intervals
-
-Edit the `$interval` variable in the script to set your desired logging frequency:
-
-```powershell
-$interval = 60 # Interval in seconds
-```
-
 ---
 
 ## 📊 Example Report
@@ -88,6 +80,4 @@ This project is licensed under the [MIT License](LICENSE). 📜
 
 *Thank you for checking out PC Performance Logger! I hope it helps you monitor and optimize your PC's performance effectively. This project is a testament to what anyone can achieve with curiosity and the right tools.* 🎉💪
 ```
-
----
 
