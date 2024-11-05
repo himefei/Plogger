@@ -1,0 +1,17 @@
+v01 initial release
+
+v02 fixed line chart time axis not scale constantly
+	added overall cpu usage over time in the capture and report
+	changed algorithm, now it captures overall usage not usage per core, this should get rid of over 100% usage
+
+v03 csv now named after SN+TIME+DAY+MONTH+YEAR
+	capturing is based on "%processortime", will be about 25% lower than what's in Windows Task Manager
+	merged all individual processes into one, for example Chrome#1, Chrome#2, Chrome#3...
+	decimal places 2
+
+v04 added overall memory usage in the capture
+
+v05 fixed an issue where the line chart Y axis scales based on the usage. Now it is always shows max 100%
+
+v06 combined cpu and memory usage into a single line chart
+	made the report to have the same name as imported csv file
