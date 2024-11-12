@@ -2,7 +2,7 @@
 
 **PC Performance Logger** is my **first-ever project**! 🎉 As someone who isn't a professional programmer, I was amazed by how AI tools like ChatGPT helped me create this PowerShell script. The best part? It's a **100% Pure PowerShell Solution** that runs natively on any Windows PC - no external dependencies required! 
 
-## 💫 What Makes This Special?
+## 💫 Why 100% PowerShell? andWhat Makes This Special?
 
 - **🔌 Zero Dependencies:** Works with built-in PowerShell commands only - no external modules needed!
 - **🎯 Universal Compatibility:** Runs on any Windows PC with PowerShell (which comes pre-installed on all modern Windows systems)
